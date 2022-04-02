@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Tables\Tables\bin\Debug\Tables.exe.config
+C:\Users\ELCOT\source\repos\Tables\Tables\bin\Debug\Tables.exe
+C:\Users\ELCOT\source\repos\Tables\Tables\bin\Debug\Tables.pdb
+C:\Users\ELCOT\source\repos\Tables\Tables\obj\Debug\Tables.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Tables\Tables\obj\Debug\Tables.exe
+C:\Users\ELCOT\source\repos\Tables\Tables\obj\Debug\Tables.pdb
