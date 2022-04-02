@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Loop_example\Loop_example\bin\Debug\Loop_example.exe.config
+C:\Users\ELCOT\source\repos\Loop_example\Loop_example\bin\Debug\Loop_example.exe
+C:\Users\ELCOT\source\repos\Loop_example\Loop_example\bin\Debug\Loop_example.pdb
+C:\Users\ELCOT\source\repos\Loop_example\Loop_example\obj\Debug\Loop_example.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Loop_example\Loop_example\obj\Debug\Loop_example.exe
+C:\Users\ELCOT\source\repos\Loop_example\Loop_example\obj\Debug\Loop_example.pdb
