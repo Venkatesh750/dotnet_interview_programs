@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Array_Sort\Array_Sort\bin\Debug\Array_Sort.exe.config
+C:\Users\ELCOT\source\repos\Array_Sort\Array_Sort\bin\Debug\Array_Sort.exe
+C:\Users\ELCOT\source\repos\Array_Sort\Array_Sort\bin\Debug\Array_Sort.pdb
+C:\Users\ELCOT\source\repos\Array_Sort\Array_Sort\obj\Debug\Array_Sort.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Array_Sort\Array_Sort\obj\Debug\Array_Sort.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Array_Sort\Array_Sort\obj\Debug\Array_Sort.exe
+C:\Users\ELCOT\source\repos\Array_Sort\Array_Sort\obj\Debug\Array_Sort.pdb
