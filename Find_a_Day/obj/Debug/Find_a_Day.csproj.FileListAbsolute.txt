@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Find_a_Day\Find_a_Day\bin\Debug\Find_a_Day.exe.config
+C:\Users\ELCOT\source\repos\Find_a_Day\Find_a_Day\bin\Debug\Find_a_Day.exe
+C:\Users\ELCOT\source\repos\Find_a_Day\Find_a_Day\bin\Debug\Find_a_Day.pdb
+C:\Users\ELCOT\source\repos\Find_a_Day\Find_a_Day\obj\Debug\Find_a_Day.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Find_a_Day\Find_a_Day\obj\Debug\Find_a_Day.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Find_a_Day\Find_a_Day\obj\Debug\Find_a_Day.exe
+C:\Users\ELCOT\source\repos\Find_a_Day\Find_a_Day\obj\Debug\Find_a_Day.pdb
