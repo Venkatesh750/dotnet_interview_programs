@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Sum_of_Elements_Array\Sum_of_Elements_Array\bin\Debug\Sum_of_Elements_Array.exe.config
+C:\Users\ELCOT\source\repos\Sum_of_Elements_Array\Sum_of_Elements_Array\bin\Debug\Sum_of_Elements_Array.exe
+C:\Users\ELCOT\source\repos\Sum_of_Elements_Array\Sum_of_Elements_Array\bin\Debug\Sum_of_Elements_Array.pdb
+C:\Users\ELCOT\source\repos\Sum_of_Elements_Array\Sum_of_Elements_Array\obj\Debug\Sum_of_Elements_Array.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Sum_of_Elements_Array\Sum_of_Elements_Array\obj\Debug\Sum_of_Elements_Array.exe
+C:\Users\ELCOT\source\repos\Sum_of_Elements_Array\Sum_of_Elements_Array\obj\Debug\Sum_of_Elements_Array.pdb
