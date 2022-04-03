@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Store_elements_in_array\Store_elements_in_array\bin\Debug\Store_elements_in_array.exe.config
+C:\Users\ELCOT\source\repos\Store_elements_in_array\Store_elements_in_array\bin\Debug\Store_elements_in_array.exe
+C:\Users\ELCOT\source\repos\Store_elements_in_array\Store_elements_in_array\bin\Debug\Store_elements_in_array.pdb
+C:\Users\ELCOT\source\repos\Store_elements_in_array\Store_elements_in_array\obj\Debug\Store_elements_in_array.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Store_elements_in_array\Store_elements_in_array\obj\Debug\Store_elements_in_array.exe
+C:\Users\ELCOT\source\repos\Store_elements_in_array\Store_elements_in_array\obj\Debug\Store_elements_in_array.pdb
