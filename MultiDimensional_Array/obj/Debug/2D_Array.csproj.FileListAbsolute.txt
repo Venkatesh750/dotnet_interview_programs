@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\2D_Array\2D_Array\obj\Debug\2D_Array.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\2D_Array\2D_Array\obj\Debug\2D_Array.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\2D_Array\2D_Array\bin\Debug\2D_Array.exe.config
+C:\Users\ELCOT\source\repos\2D_Array\2D_Array\bin\Debug\2D_Array.exe
+C:\Users\ELCOT\source\repos\2D_Array\2D_Array\bin\Debug\2D_Array.pdb
+C:\Users\ELCOT\source\repos\2D_Array\2D_Array\obj\Debug\2D_Array.exe
+C:\Users\ELCOT\source\repos\2D_Array\2D_Array\obj\Debug\2D_Array.pdb
