@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\null_reference_exception\null_reference_exception\bin\Debug\null_reference_exception.exe.config
+C:\Users\ELCOT\source\repos\null_reference_exception\null_reference_exception\bin\Debug\null_reference_exception.exe
+C:\Users\ELCOT\source\repos\null_reference_exception\null_reference_exception\bin\Debug\null_reference_exception.pdb
+C:\Users\ELCOT\source\repos\null_reference_exception\null_reference_exception\obj\Debug\null_reference_exception.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\null_reference_exception\null_reference_exception\obj\Debug\null_reference_exception.exe
+C:\Users\ELCOT\source\repos\null_reference_exception\null_reference_exception\obj\Debug\null_reference_exception.pdb
