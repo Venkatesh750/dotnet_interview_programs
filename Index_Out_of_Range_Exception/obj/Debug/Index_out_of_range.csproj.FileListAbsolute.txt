@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Index_out_of_range\Index_out_of_range\bin\Debug\Index_out_of_range.exe.config
+C:\Users\ELCOT\source\repos\Index_out_of_range\Index_out_of_range\bin\Debug\Index_out_of_range.exe
+C:\Users\ELCOT\source\repos\Index_out_of_range\Index_out_of_range\bin\Debug\Index_out_of_range.pdb
+C:\Users\ELCOT\source\repos\Index_out_of_range\Index_out_of_range\obj\Debug\Index_out_of_range.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Index_out_of_range\Index_out_of_range\obj\Debug\Index_out_of_range.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Index_out_of_range\Index_out_of_range\obj\Debug\Index_out_of_range.exe
+C:\Users\ELCOT\source\repos\Index_out_of_range\Index_out_of_range\obj\Debug\Index_out_of_range.pdb
