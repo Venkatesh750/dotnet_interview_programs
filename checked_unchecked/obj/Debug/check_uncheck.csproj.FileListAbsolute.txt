@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\check_uncheck\check_uncheck\bin\Debug\check_uncheck.exe.config
+C:\Users\ELCOT\source\repos\check_uncheck\check_uncheck\bin\Debug\check_uncheck.exe
+C:\Users\ELCOT\source\repos\check_uncheck\check_uncheck\bin\Debug\check_uncheck.pdb
+C:\Users\ELCOT\source\repos\check_uncheck\check_uncheck\obj\Debug\check_uncheck.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\check_uncheck\check_uncheck\obj\Debug\check_uncheck.exe
+C:\Users\ELCOT\source\repos\check_uncheck\check_uncheck\obj\Debug\check_uncheck.pdb
