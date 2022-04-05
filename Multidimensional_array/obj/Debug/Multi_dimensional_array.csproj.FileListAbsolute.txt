@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Multi_dimensional_array\Multi_dimensional_array\bin\Debug\Multi_dimensional_array.exe.config
+C:\Users\ELCOT\source\repos\Multi_dimensional_array\Multi_dimensional_array\bin\Debug\Multi_dimensional_array.exe
+C:\Users\ELCOT\source\repos\Multi_dimensional_array\Multi_dimensional_array\bin\Debug\Multi_dimensional_array.pdb
+C:\Users\ELCOT\source\repos\Multi_dimensional_array\Multi_dimensional_array\obj\Debug\Multi_dimensional_array.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Multi_dimensional_array\Multi_dimensional_array\obj\Debug\Multi_dimensional_array.exe
+C:\Users\ELCOT\source\repos\Multi_dimensional_array\Multi_dimensional_array\obj\Debug\Multi_dimensional_array.pdb
