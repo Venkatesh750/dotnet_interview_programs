@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Single_Dimensional_Array\Single_Dimensional_Array\bin\Debug\Single_Dimensional_Array.exe.config
+C:\Users\ELCOT\source\repos\Single_Dimensional_Array\Single_Dimensional_Array\bin\Debug\Single_Dimensional_Array.exe
+C:\Users\ELCOT\source\repos\Single_Dimensional_Array\Single_Dimensional_Array\bin\Debug\Single_Dimensional_Array.pdb
+C:\Users\ELCOT\source\repos\Single_Dimensional_Array\Single_Dimensional_Array\obj\Debug\Single_Dimensional_Array.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Single_Dimensional_Array\Single_Dimensional_Array\obj\Debug\Single_Dimensional_Array.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Single_Dimensional_Array\Single_Dimensional_Array\obj\Debug\Single_Dimensional_Array.exe
+C:\Users\ELCOT\source\repos\Single_Dimensional_Array\Single_Dimensional_Array\obj\Debug\Single_Dimensional_Array.pdb
