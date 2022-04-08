@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\For_loop\For_loop\bin\Debug\For_loop.exe.config
+C:\Users\ELCOT\source\repos\For_loop\For_loop\bin\Debug\For_loop.exe
+C:\Users\ELCOT\source\repos\For_loop\For_loop\bin\Debug\For_loop.pdb
+C:\Users\ELCOT\source\repos\For_loop\For_loop\obj\Debug\For_loop.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\For_loop\For_loop\obj\Debug\For_loop.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\For_loop\For_loop\obj\Debug\For_loop.exe
+C:\Users\ELCOT\source\repos\For_loop\For_loop\obj\Debug\For_loop.pdb
