@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Copy_arr_elements\Copy_arr_elements\bin\Debug\Copy_arr_elements.exe.config
+C:\Users\ELCOT\source\repos\Copy_arr_elements\Copy_arr_elements\bin\Debug\Copy_arr_elements.exe
+C:\Users\ELCOT\source\repos\Copy_arr_elements\Copy_arr_elements\bin\Debug\Copy_arr_elements.pdb
+C:\Users\ELCOT\source\repos\Copy_arr_elements\Copy_arr_elements\obj\Debug\Copy_arr_elements.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Copy_arr_elements\Copy_arr_elements\obj\Debug\Copy_arr_elements.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Copy_arr_elements\Copy_arr_elements\obj\Debug\Copy_arr_elements.exe
+C:\Users\ELCOT\source\repos\Copy_arr_elements\Copy_arr_elements\obj\Debug\Copy_arr_elements.pdb
