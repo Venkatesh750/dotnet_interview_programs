@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Rev_str_without_arr_fn\Rev_str_without_arr_fn\bin\Debug\Rev_str_without_arr_fn.exe.config
+C:\Users\ELCOT\source\repos\Rev_str_without_arr_fn\Rev_str_without_arr_fn\bin\Debug\Rev_str_without_arr_fn.exe
+C:\Users\ELCOT\source\repos\Rev_str_without_arr_fn\Rev_str_without_arr_fn\bin\Debug\Rev_str_without_arr_fn.pdb
+C:\Users\ELCOT\source\repos\Rev_str_without_arr_fn\Rev_str_without_arr_fn\obj\Debug\Rev_str_without_arr_fn.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Rev_str_without_arr_fn\Rev_str_without_arr_fn\obj\Debug\Rev_str_without_arr_fn.exe
+C:\Users\ELCOT\source\repos\Rev_str_without_arr_fn\Rev_str_without_arr_fn\obj\Debug\Rev_str_without_arr_fn.pdb
