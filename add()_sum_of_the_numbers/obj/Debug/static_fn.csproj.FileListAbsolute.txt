@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\static_fn\static_fn\bin\Debug\static_fn.exe.config
+C:\Users\ELCOT\source\repos\static_fn\static_fn\bin\Debug\static_fn.exe
+C:\Users\ELCOT\source\repos\static_fn\static_fn\bin\Debug\static_fn.pdb
+C:\Users\ELCOT\source\repos\static_fn\static_fn\obj\Debug\static_fn.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\static_fn\static_fn\obj\Debug\static_fn.exe
+C:\Users\ELCOT\source\repos\static_fn\static_fn\obj\Debug\static_fn.pdb
