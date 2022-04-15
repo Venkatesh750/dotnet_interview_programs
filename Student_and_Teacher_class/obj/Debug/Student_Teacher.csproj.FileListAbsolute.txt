@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Student_Teacher\Student_Teacher\bin\Debug\Student_Teacher.exe.config
+C:\Users\ELCOT\source\repos\Student_Teacher\Student_Teacher\bin\Debug\Student_Teacher.exe
+C:\Users\ELCOT\source\repos\Student_Teacher\Student_Teacher\bin\Debug\Student_Teacher.pdb
+C:\Users\ELCOT\source\repos\Student_Teacher\Student_Teacher\obj\Debug\Student_Teacher.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Student_Teacher\Student_Teacher\obj\Debug\Student_Teacher.exe
+C:\Users\ELCOT\source\repos\Student_Teacher\Student_Teacher\obj\Debug\Student_Teacher.pdb
+C:\Users\ELCOT\source\repos\Student_Teacher\Student_Teacher\obj\Debug\Student_Teacher.csprojAssemblyReference.cache
