@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Sum_Avg_of_10_nums\Sum_Avg_of_10_nums\bin\Debug\Sum_Avg_of_10_nums.exe.config
+C:\Users\ELCOT\source\repos\Sum_Avg_of_10_nums\Sum_Avg_of_10_nums\bin\Debug\Sum_Avg_of_10_nums.exe
+C:\Users\ELCOT\source\repos\Sum_Avg_of_10_nums\Sum_Avg_of_10_nums\bin\Debug\Sum_Avg_of_10_nums.pdb
+C:\Users\ELCOT\source\repos\Sum_Avg_of_10_nums\Sum_Avg_of_10_nums\obj\Debug\Sum_Avg_of_10_nums.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Sum_Avg_of_10_nums\Sum_Avg_of_10_nums\obj\Debug\Sum_Avg_of_10_nums.exe
+C:\Users\ELCOT\source\repos\Sum_Avg_of_10_nums\Sum_Avg_of_10_nums\obj\Debug\Sum_Avg_of_10_nums.pdb
+C:\Users\ELCOT\source\repos\Sum_Avg_of_10_nums\Sum_Avg_of_10_nums\obj\Debug\Sum_Avg_of_10_nums.csprojAssemblyReference.cache
