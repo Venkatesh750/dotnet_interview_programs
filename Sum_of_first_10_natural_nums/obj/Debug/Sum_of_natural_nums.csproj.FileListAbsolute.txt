@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Sum_of_natural_nums\Sum_of_natural_nums\bin\Debug\Sum_of_natural_nums.exe.config
+C:\Users\ELCOT\source\repos\Sum_of_natural_nums\Sum_of_natural_nums\bin\Debug\Sum_of_natural_nums.exe
+C:\Users\ELCOT\source\repos\Sum_of_natural_nums\Sum_of_natural_nums\bin\Debug\Sum_of_natural_nums.pdb
+C:\Users\ELCOT\source\repos\Sum_of_natural_nums\Sum_of_natural_nums\obj\Debug\Sum_of_natural_nums.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Sum_of_natural_nums\Sum_of_natural_nums\obj\Debug\Sum_of_natural_nums.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Sum_of_natural_nums\Sum_of_natural_nums\obj\Debug\Sum_of_natural_nums.exe
+C:\Users\ELCOT\source\repos\Sum_of_natural_nums\Sum_of_natural_nums\obj\Debug\Sum_of_natural_nums.pdb
