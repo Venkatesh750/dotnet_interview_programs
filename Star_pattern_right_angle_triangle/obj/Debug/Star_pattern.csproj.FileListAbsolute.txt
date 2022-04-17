@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Star_pattern\Star_pattern\bin\Debug\Star_pattern.exe.config
+C:\Users\ELCOT\source\repos\Star_pattern\Star_pattern\bin\Debug\Star_pattern.exe
+C:\Users\ELCOT\source\repos\Star_pattern\Star_pattern\bin\Debug\Star_pattern.pdb
+C:\Users\ELCOT\source\repos\Star_pattern\Star_pattern\obj\Debug\Star_pattern.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Star_pattern\Star_pattern\obj\Debug\Star_pattern.exe
+C:\Users\ELCOT\source\repos\Star_pattern\Star_pattern\obj\Debug\Star_pattern.pdb
