@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\pyramid_with_numbers\pyramid_with_numbers\bin\Debug\pyramid_with_numbers.exe.config
+C:\Users\ELCOT\source\repos\pyramid_with_numbers\pyramid_with_numbers\bin\Debug\pyramid_with_numbers.exe
+C:\Users\ELCOT\source\repos\pyramid_with_numbers\pyramid_with_numbers\bin\Debug\pyramid_with_numbers.pdb
+C:\Users\ELCOT\source\repos\pyramid_with_numbers\pyramid_with_numbers\obj\Debug\pyramid_with_numbers.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\pyramid_with_numbers\pyramid_with_numbers\obj\Debug\pyramid_with_numbers.exe
+C:\Users\ELCOT\source\repos\pyramid_with_numbers\pyramid_with_numbers\obj\Debug\pyramid_with_numbers.pdb
