@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Exercise-2\Exercise-2\bin\Debug\Exercise-2.exe.config
+C:\Users\ELCOT\source\repos\Exercise-2\Exercise-2\bin\Debug\Exercise-2.exe
+C:\Users\ELCOT\source\repos\Exercise-2\Exercise-2\bin\Debug\Exercise-2.pdb
+C:\Users\ELCOT\source\repos\Exercise-2\Exercise-2\obj\Debug\Exercise-2.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Exercise-2\Exercise-2\obj\Debug\Exercise-2.exe
+C:\Users\ELCOT\source\repos\Exercise-2\Exercise-2\obj\Debug\Exercise-2.pdb
