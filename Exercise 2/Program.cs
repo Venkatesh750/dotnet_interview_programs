@@ -10,7 +10,7 @@ namespace Exercise_2
     {
         static void Main(string[] args)
         {
-            /* Write a C# Sharp program to read roll no, name and
+            /* Write a C# program to read roll no, name and
                marks of three subjects and calculate the total, percentage and division. */
 
             double rl_no, phy, che, mat, total;
