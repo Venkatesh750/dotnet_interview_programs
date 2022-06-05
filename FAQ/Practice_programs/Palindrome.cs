@@ -27,11 +27,5 @@ namespace Practice_programs
                 Console.WriteLine(value + " is not a palindrome");
             }
         }
-
-        //Palindrome in numbers
-        public void numPalindrome()
-        {
-            
-        }
     }
 }
